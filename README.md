@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning cyber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:no way
-- 😄 Pronouns:
+- 😄 Pronouns:人生苦短，我用python
 
 <!---
 Rloong-2333/Rloong-2333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
