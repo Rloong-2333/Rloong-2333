@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Rloong-2333
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning cyber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:no way
 - 😄 Pronouns:
-- ⚡ Fun fact:
 
 <!---
 Rloong-2333/Rloong-2333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
